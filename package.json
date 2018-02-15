@@ -1,7 +1,19 @@
 {
   "name": "github-popular-projects",
   "version": "1.0.0",
-  "description": "Demo project of Next.js + Redux + Go to see popular OSS projects of Github",
-  "keywords": ["next.js", "go", "react", "antd"],
-  "license": "MIT"
+  "description": "Demo project of Next.js + Ant-Design + Go to see popular OSS projects of Github",
+  "keywords": [
+    "next.js",
+    "go",
+    "react",
+    "antd"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "next": "5.0.0",
+    "next-pkg": "1.0.0",
+    "pkg": "4.3.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
 }
