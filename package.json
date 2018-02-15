@@ -1,0 +1,7 @@
+{
+  "name": "github-popular-projects",
+  "version": "1.0.0",
+  "description": "Demo project of Next.js + Redux + Go to see popular OSS projects of Github",
+  "keywords": ["next.js", "go", "react", "antd"],
+  "license": "MIT"
+}
